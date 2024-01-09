@@ -2,7 +2,7 @@
 
 This post works through the technical details of "upgradeable proxy contacts" on the
 Ethereum Virtual Machine and how this concept applies to two controversial public examples:
-- <sup><sub><img src="https://images.ctfassets.net/q5ulk4bp65r7/3TBS4oVkD1ghowTqVQJlqj/2dfd4ea3b623a7c0d8deb2ff445dee9e/Consumer_Wordmark.svg" height=14></sub></sup>'s base L2 blockchain
+- <sup><sub><img src="https://images.ctfassets.net/q5ulk4bp65r7/3TBS4oVkD1ghowTqVQJlqj/2dfd4ea3b623a7c0d8deb2ff445dee9e/Consumer_Wordmark.svg" height=7></sub></sup>'s base L2 blockchain
 - Tornado Cash
 
 ## Introduction To Proxies
@@ -95,12 +95,12 @@ So that contract was upgradeable. It was not immutable.
 And per etherscan it processed 962 transactions over a period of about two months.
 You can see that [here](https://etherscan.io/txs?a=0xb541fc07bc7619fd4062a54d96268525cbc6ffef&p=1).
 
-## Base <img src="https://images.mirror-media.xyz/publication-images/cgqxxPdUFBDjgKna_dDir.png?height=1200&width=1200" height=24>
+## Base <img src="https://images.mirror-media.xyz/publication-images/cgqxxPdUFBDjgKna_dDir.png?height=1200&width=1200" height=12>
 
 Coinbase's base is a more complex example of the same sort of behavior.
 
 ### Standard Contracts
-base is built on <img src="https://assets-global.website-files.com/611dbb3c82ba72fbc285d4e2/611fd32ef63b79b5f8568d58_OPTIMISM-logo.svg" height=10>. We can see in those docs [here](https://community.optimism.io/docs/protocol/protocol-2.0/#)
+base is built on <img src="https://assets-global.website-files.com/611dbb3c82ba72fbc285d4e2/611fd32ef63b79b5f8568d58_OPTIMISM-logo.svg" height=6>. We can see in those docs [here](https://community.optimism.io/docs/protocol/protocol-2.0/#)
 that a basic optimism setup involves 4 addresses on the L1 chain:
 1. L2OutputOracle
 2. OptimismPortal
