@@ -13,3 +13,4 @@
   * [Polygon #1: Circulating Supply](polygon_1.md)
   * [Polygon #2: Staking Flow Problems](polygon_2.md)
   * [Polygon #3: General Foundation Odd Flows To Exchanges](polygon_3.md)
+* [Scams](scams.md)
