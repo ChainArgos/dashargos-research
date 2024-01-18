@@ -18,3 +18,6 @@ we are averaging 7 consecutive VWAPs. Maybe that is sensible.
 Or maybe [we should weight a rolling 7 days of VWAPS by each day's volume](https://dashargos.chainargos.com/looks/282).
 
 This is only limited by user demand and creativity.
+
+Here is a table that shows daily average price for every token that's been through Uniswap.
+[There are a lot of columns](https://dashargos.chainargos.com/looks/678).
