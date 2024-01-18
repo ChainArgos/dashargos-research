@@ -6,6 +6,7 @@
 * [Basics](basics.md)
   * [Upgradeable Proxy Contracts](upgradeable_proxy.md)
   * [Uniswap Price Feeds](uniswap_price_feeds.md)
+  * [Mixers & Incidents](mixers.md)
 * [Pricing Case Studies](pricing.md)
   * [YGG Initial Allocations, Vesting & Pump Timing](ygg_free_float.md)
 * [Polygon](polygon.md)
