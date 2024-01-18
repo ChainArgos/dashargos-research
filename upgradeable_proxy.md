@@ -1,4 +1,4 @@
-# 💽 Upgradeable Proxy Contracts
+# Upgradeable Proxy Contracts
 
 This post works through the technical details of "upgradeable proxy contacts" on the Ethereum Virtual Machine and how this concept applies to two controversial public examples:
 
