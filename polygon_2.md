@@ -1,6 +1,6 @@
 # Polygon Staking Flow Problems
 
-We [previously covered](https://app.gitbook.com/o/tOGhLKeMfWz52eOrPasV/s/BbocZytni0qjkq4xnCKn/polygon_1)
+We [previously covered](https://docs.chainargos.com/documentation/v/research/library/polygon/polygon_1)
 how the real Polygon circulating supply does not match the documents.
 Now let's show the problems are far deeper.
 
