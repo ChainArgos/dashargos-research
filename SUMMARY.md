@@ -2,7 +2,7 @@
 
 * [🎯 Introduction](README.md)
 
-## Library
+### Data-Driven Research
 
 * [🤖 Basics](basics.md)
   * [Upgradeable Proxy Contracts](upgradeable\_proxy.md)
@@ -18,3 +18,6 @@
 * [🏴 Blacklist](blacklist/blacklist.md)
   * [Monitoring](blacklist/monitoring.md)
   * [Odd Frozen Tether #1](blacklist/tether_1.md)
+
+### Theoretical Research
+* [Impossibilities](theoretical/impossibilities.md)
