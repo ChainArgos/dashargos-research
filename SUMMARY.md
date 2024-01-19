@@ -15,3 +15,5 @@
   * [Polygon #2: Staking Flow Problems](polygon/polygon\_2.md)
   * [Polygon #3: General Foundation Odd Flows To Exchanges](polygon/polygon\_3.md)
 * [🎭 Scams](scams.md)
+* [🏴 Blacklist](blacklist/blacklist.md)
+  * [Odd Frozen Tether #1](blacklist/tether_1.md)
