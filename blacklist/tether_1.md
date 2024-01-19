@@ -2,6 +2,8 @@
 
 Related to [this Twitter thread](https://twitter.com/ChainArgos/status/1748171855859773836).
 
+For examples of how to look at blacklists and blacklist changes [go here](monitoring.md).
+
 On 18-Jan-2024 Tether unblacklisted 2 addresses, both of which were originally blacklisted
 22-Jun-2023:
 1. [0x5e60ca67be076e1175022fbbf5c03f5ef85811d5](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x5e60ca67be076e1175022fbbf5c03f5ef85811d5&Symbol=)
