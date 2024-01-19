@@ -14,7 +14,7 @@
   * [Polygon #1: Circulating Supply](polygon/polygon\_1.md)
   * [Polygon #2: Staking Flow Problems](polygon/polygon\_2.md)
   * [Polygon #3: General Foundation Odd Flows To Exchanges](polygon/polygon\_3.md)
-* [🎭 Scams](scams.md)
+* [🎭 Scams](scams/scams.md)
 * [🏴 Blacklist](blacklist/blacklist.md)
   * [Monitoring](blacklist/monitoring.md)
   * [Odd Frozen Tether #1](blacklist/tether_1.md)
