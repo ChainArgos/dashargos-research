@@ -4,12 +4,12 @@
 
 ### Data-Driven Research
 
-* [🤖 Basics](basics.md)
-  * [Upgradeable Proxy Contracts](upgradeable\_proxy.md)
-  * [Uniswap Price Feeds](uniswap\_price\_feeds.md)
-  * [Mixers & Incidents](mixers.md)
-* [📊 Pricing Case Studies](pricing.md)
-  * [YGG Initial Allocations, Vesting & Pump Timing](ygg\_free\_float.md)
+* [🤖 Basics](basics/basics.md)
+  * [Upgradeable Proxy Contracts](basics/upgradeable\_proxy.md)
+  * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
+  * [Mixers & Incidents](basics/mixers.md)
+* [📊 Pricing Case Studies](pricing/pricing.mdicing.md)
+  * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🟣 Polygon](polygon/polygon.md)
   * [Polygon #1: Circulating Supply](polygon/polygon\_1.md)
   * [Polygon #2: Staking Flow Problems](polygon/polygon\_2.md)
