@@ -20,4 +20,4 @@
   * [Odd Frozen Tether #1](blacklist/tether_1.md)
 
 ### Theoretical Research
-* [Impossibilities](theoretical/impossibilities.md)
+* [⛔ Impossibilities](theoretical/impossibilities.md)
