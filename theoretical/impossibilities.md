@@ -12,7 +12,10 @@ IEEE International Conference on Blockchain, 2021
 3. You can ony have two of correctness, decentralization & cost efficiency: [Blockchain Economics](https://markus.scholar.princeton.edu/publications/blockchain-economics),
 Princeton University Economics department working paper, 2021
 
-4. Scaling impossibility: [The Consequences Of Scalable Blockchains](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d),
+4. UTXO and account-based system decomposition impossibility: [A Unifying Theory of Electronic Money and Payment Systems](https://www.techrxiv.org/doi/full/10.36227/techrxiv.14994558.v3),
+TechRxiv, 2022
+
+5. Scaling impossibility: [The Consequences Of Scalable Blockchains](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d),
 blog post, 2022
    - See also [Sharding Is Also NP-Complete](https://medium.com/chainargos/sharding-is-also-np-complete-8faeafaf360a), blog post, 2022
 
