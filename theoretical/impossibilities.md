@@ -15,25 +15,26 @@ Princeton University Economics department working paper, 2021
 4. UTXO and account-based system decomposition impossibility: [A Unifying Theory of Electronic Money and Payment Systems](https://www.techrxiv.org/doi/full/10.36227/techrxiv.14994558.v3),
 TechRxiv, 2022
 
-5. Scaling impossibility: [The Consequences Of Scalable Blockchains](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d),
-blog post, 2022
+5. Scaling impossibility: [Asset Transfer Ordering Under A No-Negative-Balance Requirement Is NP-Complete](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701874), SSRN, 2024
+   - See also [The Consequences Of Scalable Blockchains](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d), blog post, 2022
    - See also [Sharding Is Also NP-Complete](https://medium.com/chainargos/sharding-is-also-np-complete-8faeafaf360a), blog post, 2022
 
-5. Decentralized risk-free yield is impossible: [Risk-Free Interest Rates in Decentralized Finance](https://ieeexplore.ieee.org/abstract/document/10338890),
+6. Decentralized risk-free yield is impossible: [Risk-Free Interest Rates in Decentralized Finance](https://ieeexplore.ieee.org/abstract/document/10338890),
 IEEE Fifth International Conference on Blockchain Computing and Applications, 2023
 
-6. Capital-efficient decentralized stablecoins are impossible: [Computer Science Abstractions to Help Reason About Decentralized Stablecoin Design](https://ieeexplore.ieee.org/abstract/document/10258164),
+7. Capital-efficient decentralized stablecoins are impossible: [Computer Science Abstractions to Help Reason About Decentralized Stablecoin Design](https://ieeexplore.ieee.org/abstract/document/10258164),
 IEEE Access, 2023
 
-7. Decentralized trustless oracle impossibility: [An impossibility theorem  on truth-telling in fully  decentralized systems](https://www.bis.org/publ/work1117.pdf),
+8. Decentralized trustless oracle impossibility: [An impossibility theorem  on truth-telling in fully  decentralized systems](https://www.bis.org/publ/work1117.pdf),
 BIS working paper, 2023
    - See also [The oracle problem and the future of DeFi](https://www.bis.org/publ/bisbull76.pdf), BIS Bulletin, 2023
 
-8. Trustless protocols cannot guarantee price stability: [Can Trustless Protocols Guarantee Price Stability?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576168),
+9. Trustless protocols cannot guarantee price stability: [Can Trustless Protocols Guarantee Price Stability?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576168),
 SSRN, 2023
 
-9. Compliance impossibility: [Decentralized Finance and Financial Regulation: Limits On Mutable Turing Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4597651),
+10. Compliance impossibility: [Decentralized Finance and Financial Regulation: Limits On Mutable Turing Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4597651),
 SSRN, 2023
+    - See also [The Compliance-Innovation Trade-off](https://datafinnovation.medium.com/the-compliance-innovation-trade-off-72b9f8026f56), blog post, 2022
 
 ## Other collections
 [This blog](https://blog.dshr.org/2022/09/impossibilities.html) has a slightly different focus and
