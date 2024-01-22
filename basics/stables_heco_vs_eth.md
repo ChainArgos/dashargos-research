@@ -2,7 +2,7 @@
 
 Related to [this Twitter post](https://twitter.com/ChainArgos/status/1749256253996720516).
 
-Here is the underlying data in publicly-viewable for:
+Here is the underlying data in publicly-viewable format:
 - [Heco stablecoin volumes](https://dashargos.chainargos.com/embed/public/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt)
 - [Ethereum stablecoin volumes](https://dashargos.chainargos.com/embed/public/JtQhGDHtB9dWVJY4WwytN9VjhJwVdct6)
 
