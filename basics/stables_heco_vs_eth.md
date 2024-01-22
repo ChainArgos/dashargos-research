@@ -5,3 +5,5 @@ Related to [this Twitter post](https://twitter.com/ChainArgos/status/17492562539
 [Here](https://dashargos.chainargos.com/dashboards/83) is the underlying data as a pair of Looks in a Dashboard.
 
 {% embed url="https://dashargos.chainargos.com/embed/public/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt" %}
+
+{% embed url="https://dashargos.chainargos.com/embed/public/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt" %}

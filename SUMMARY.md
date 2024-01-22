@@ -2,14 +2,14 @@
 
 * [🎯 Introduction](README.md)
 
-### Data-Driven Research
+## Data-Driven Research
 
 * [🤖 Basics](basics/basics.md)
   * [Upgradeable Proxy Contracts](basics/upgradeable\_proxy.md)
   * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
   * [Mixers & Incidents](basics/mixers.md)
-  * [Stablecoin Volumes: Heco vs Ethereum](basics/stables_heco_vs_eth.md)
-* [📊 Pricing Case Studies](pricing/pricing.mdicing.md)
+  * [Stablecoin Volumes: Heco vs Ethereum](basics/stables\_heco\_vs\_eth.md)
+* [📊 Pricing Case Studies](data-driven-research/pricing-case-studies/README.md)
   * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🟣 Polygon](polygon/polygon.md)
   * [Polygon #1: Circulating Supply](polygon/polygon\_1.md)
@@ -18,7 +18,8 @@
 * [🎭 Scams](scams/scams.md)
 * [🏴 Blacklist](blacklist/blacklist.md)
   * [Monitoring](blacklist/monitoring.md)
-  * [Odd Frozen Tether #1](blacklist/tether_1.md)
+  * [Odd Frozen Tether #1](blacklist/tether\_1.md)
 
-### Theoretical Research
+## Theoretical Research
+
 * [⛔ Impossibilities](theoretical/impossibilities.md)
