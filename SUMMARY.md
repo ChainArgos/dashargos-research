@@ -8,6 +8,7 @@
   * [Upgradeable Proxy Contracts](basics/upgradeable\_proxy.md)
   * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
   * [Mixers & Incidents](basics/mixers.md)
+  * [Stablecoin Volumes: Heco vs Ethereum](basics/stables_heco_vs_eth.md)
 * [📊 Pricing Case Studies](pricing/pricing.mdicing.md)
   * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🟣 Polygon](polygon/polygon.md)
