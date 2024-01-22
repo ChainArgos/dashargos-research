@@ -2,8 +2,10 @@
 
 Related to [this Twitter post](https://twitter.com/ChainArgos/status/1749256253996720516).
 
-[Here](https://dashargos.chainargos.com/dashboards/83) is the underlying data as a pair of Looks in a Dashboard.
+Here is the underlying data in publicly-viewable for:
+- [Heco stablecoin volumes](https://dashargos.chainargos.com/looks/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt.txt?apply_formatting=true&apply_vis=true)
+- [Ethereum stablecoin volumes](https://dashargos.chainargos.com/looks/JtQhGDHtB9dWVJY4WwytN9VjhJwVdct6.txt?apply_formatting=true&apply_vis=true)
 
-{% embed url="https://dashargos.chainargos.com/embed/public/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt" %}
+For system users [here](https://dashargos.chainargos.com/dashboards/83) is the underlying data as a pair of Looks in a Dashboard.
 
-{% embed url="https://dashargos.chainargos.com/embed/public/b3ZCHksJF9vCt5RDSRjyydhPzHgX5vrt" %}
+(If anyone knows how to embed Looker, or an iFrame, into GitBook please let us know!)
