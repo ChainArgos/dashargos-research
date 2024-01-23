@@ -9,6 +9,7 @@
   * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
   * [Mixers & Incidents](basics/mixers.md)
   * [Stablecoin Volumes: Heco vs Ethereum](basics/stables\_heco\_vs\_eth.md)
+  * [Shitcoin Volumes](basics/shitcoin_volumes.md)
 * [📊 Pricing Case Studies](data-driven-research/pricing-case-studies/README.md)
   * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🟣 Polygon](polygon/polygon.md)
@@ -19,6 +20,7 @@
 * [🏴 Blacklist](blacklist/blacklist.md)
   * [Monitoring](blacklist/monitoring.md)
   * [Odd Frozen Tether #1](blacklist/tether\_1.md)
+  * [Pre-Blacklisting Tether Outflows](blacklist/pre\_blacklist\_tether\_outflows.md)
 
 ## Theoretical Research
 
