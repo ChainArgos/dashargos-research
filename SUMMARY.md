@@ -8,7 +8,7 @@
   * [Monitoring](blacklist/monitoring.md)
   * [Odd Frozen Tether #1](blacklist/tether\_1.md)
   * [Pre-Blacklisting Tether Outflows](blacklist/pre\_blacklist\_tether\_outflows.md)
-  * Specific dates with interesting wallets:
+  * Specific dates & interesting wallets
     * [2023-12-01 Tether](blacklist/tether\_2023\_12\_01.md)
 * [🤖 Basics](basics/basics.md)
   * [Mixers & Incidents](basics/mixers.md)
