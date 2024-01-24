@@ -26,6 +26,7 @@
 * [📊 Pricing Case Studies](data-driven-research/pricing-case-studies/README.md)
   * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🎭 Scams](scams/scams.md)
+* [🥷 Terrorism](terrorism/terrorism.md)
 
 ## 🤔 Theoretical Research
 
