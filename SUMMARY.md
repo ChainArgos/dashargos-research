@@ -11,7 +11,7 @@
   * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
   * [Upgradeable Proxy Contracts](basics/upgradeable\_proxy.md)
 * [🏴 Blacklists](blacklist/blacklist.md)
-  * [Circle vs Tether Blacklist Frequency](https://dashargos.chainargos.com/looks/695)
+  * [Circle vs Tether Blacklist Frequency](blacklist/circle_vs_tether_blacklist.md)
   * [Monitoring](blacklist/monitoring.md)
   * [Odd Frozen Tether #1](blacklist/tether\_1.md)
   * [Pre-Blacklisting Tether Outflows](blacklist/pre\_blacklist\_tether\_outflows.md)
