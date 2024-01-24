@@ -40,3 +40,9 @@ SSRN, 2023
 [This blog](https://blog.dshr.org/2022/09/impossibilities.html) has a slightly different focus and
 covers some economic-equilibrium-focused papers as well. For example a paper proving that full decentralization
 is incompatible with a broad class of standard economic assumptions about market participants.
+
+And a limited selection of other economic-equilibrium papers that have come up over the years:
+- Oracles
+  - [Decentralized Common Knowledge Oracles](https://arxiv.org/abs/1912.01215)
+  - [Select-Storage: A New Oracle Design Pattern on Blockchain](https://ieeexplore.ieee.org/document/9724384)
+  - [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349)
