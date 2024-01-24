@@ -29,6 +29,7 @@
   * [YGG Initial Allocations, Vesting & Pump Timing](pricing/ygg\_free\_float.md)
 * [🎭 Scams](scams/scams.md)
 * [🪙 Stablecoins](stablecoins/README.md)
+  * [Tron](stablecoins/tron.md)
 * [🥷 Terrorism](terrorism/terrorism.md)
   * [Israel Blacklists](terrorism/israel_intro.md)
   * [Israel Sanctions & Tether](terrorism/israel_tether.md)
