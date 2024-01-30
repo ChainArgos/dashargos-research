@@ -65,9 +65,16 @@ If you look at [this current Tornado Cash contract](https://etherscan.io/address
 
 ## Tornado Cash ![](https://miro.medium.com/v2/resize:fill:36:36/2\*CE0d\_LiVIbqYH7PzIpRToQ.png)
 
-[Here](https://etherscan.io/address/0xb541fc07bc7619fd4062a54d96268525cbc6ffef#code) is a Tornado Cash mixer contract. You can read the code there on etherscan. Sometimes, if a given proxy conforms to EIP-1822 or a different standard, etherscan can help us out. Other times, like here, where the proxy implementation is non-standard we need to read for ourselves.
+[Here](https://etherscan.io/address/0xb541fc07bc7619fd4062a54d96268525cbc6ffef#code) is a Tornado Cash mixer contract.
+You can read the code there on etherscan.
+Sometimes, if a given proxy conforms to EIP-1822 or a different standard, etherscan can help us out.
+Other times, like here where the proxy implementation is non-standard, we need to read for ourselves.
 
-So how can we tell? By reading the code. We find a `Proxy` contract type, alongside a `BaseUpgradeabilityProxy` and `AdminUpgradeabilityProxy`. There are small wrapper functions which change ownership addresses, update implementation details. There is even a function:
+So how can we tell?
+By reading the code.
+We find a `Proxy` contract type, alongside a `BaseUpgradeabilityProxy` and `AdminUpgradeabilityProxy`.
+There are small wrapper functions which change ownership addresses and update implementation details.
+There is even a function:
 
 ```solidity
 function upgradeTo(address newImplementation) external ifAdmin {
@@ -77,7 +84,9 @@ function upgradeTo(address newImplementation) external ifAdmin {
 
 You do not need to be a solidity expert, or even have programming experience, to figure this out. All you need is to understand the vocabulary and basic concepts.
 
-So that contract was upgradeable. It was not immutable. And per etherscan it processed 962 transactions over a period of about two months. You can see that [here](https://etherscan.io/txs?a=0xb541fc07bc7619fd4062a54d96268525cbc6ffef\&p=1).
+So that contract was upgradeable.
+That means **it was not immutable**.
+And per etherscan it processed 962 transactions over a period of about two months. You can see that [here](https://etherscan.io/txs?a=0xb541fc07bc7619fd4062a54d96268525cbc6ffef\&p=1).
 
 ## Base <img src="https://images.mirror-media.xyz/publication-images/cgqxxPdUFBDjgKna_dDir.png?height=1200&#x26;width=1200" alt="" data-size="line">
 
@@ -106,11 +115,17 @@ base is built on optimism. But it goes well beyond being just a deployment of th
 2. [System config](https://etherscan.io/address/0x73a79Fab69143498Ed3712e519A88a918e1f4072#readProxyContract) which governs some parameters of the system
 3. [Block proposer](https://etherscan.io/address/0x642229f238fb9de03374be34b0ed8d9de80752c5) which publishes data from the L2 on the L1.
 
-How can we tell? Again go read the code and it is right there. The Block proposer is stores in the oracle. The Guardian and System config are stored in the portal. Etherscan even decodes this stuff for you. You do not need to read the code as much as just use etherscan's nice UI.
+How can we tell? Again go read the code and it is right there.
+The Block proposer is stored in the oracle.
+The Guardian and System config are stored in the portal.
+Etherscan even decodes this stuff for you.
+You do not need to read the code - you can just use etherscan's nice UI.
 
-Both Guardian and System config are upgradeable proxies. The Proposer is not even a contract -- it is just a plain old address and someone is firing off transactions with a private key from off the chain.
+Both Guardian and System config are upgradeable proxies.
+The Proposer is not even a contract - it is just a plain old address and someone is firing off transactions with a private key from off the chain.
 
-This is a 100% centralized custodial system. Coinbase could wipe all the contracts and take all money if they wanted to (or were forced to).
+This is a 100% centralized custodial system.
+Coinbase could wipe all the contracts and take all money if they wanted to or were hacked or made a mistake (or were forced to).
 
 ## How Big Are The Flows?
 
