@@ -19,6 +19,7 @@
     * [2023-03-03 Coinbase vs Tether on DPRK Sanctions](blacklist/coinbase\_vs\_tether\_dprk.md)
     * [2023-12-01 Tether](blacklist/tether\_2023\_12\_01.md)
     * [2024-01-24 Circle](blacklist/circle\_2024\_01\_24.md)
+    * [2024-02-07 Tether](blacklist/tether\_2024\_02\_07.md)
 * [🏦 Exchange Monitoring](exchanges/exchanges.md)
   * [Binance - Binance US](exchanges/binance_us.md)
 * [🟣 Polygon](polygon/polygon.md)
