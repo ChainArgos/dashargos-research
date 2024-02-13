@@ -34,6 +34,7 @@
 * [🥷 Terrorism](terrorism/terrorism.md)
   * [Israel Blacklists](terrorism/israel_intro.md)
   * [Israel Sanctions & Tether](terrorism/israel_tether.md)
+* [👛 Wallets](wallets/README.md)
 
 ## 🤔 Theoretical Research
 
