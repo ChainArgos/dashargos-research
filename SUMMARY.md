@@ -22,7 +22,7 @@
     * [2024-01-24 Circle](blacklist/circle\_2024\_01\_24.md)
     * [2024-02-07 Tether](blacklist/tether\_2024\_02\_07.md)
 * [🏦 Exchange Monitoring](exchanges/exchanges.md)
-  * [Binance - Binance US](exchanges/binance_us.md)
+  * [Binance - Binance US](exchanges/binance\_us.md)
 * [🟣 Polygon](polygon/polygon.md)
   * [Part 1: Circulating Supply Issues](polygon/polygon\_1.md)
   * [Part 2: Staking Flow Problems](polygon/polygon\_2.md)
