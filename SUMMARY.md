@@ -36,7 +36,7 @@
   * [Israel Blacklists](terrorism/israel_intro.md)
   * [Israel Sanctions & Tether](terrorism/israel_tether.md)
 * [Tron](tron/README.md)
-  * [USDT Sizs](tron/usdt\_on\_tron\_flow\_sizes.md)
+  * [USDT Sizes](tron/usdt\_on\_tron\_flow\_sizes.md)
 * [👛 Wallets](wallets/README.md)
 
 ## 🤔 Theoretical Research
