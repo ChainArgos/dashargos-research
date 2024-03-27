@@ -21,6 +21,8 @@
     * [2023-12-01 Tether](blacklist/tether\_2023\_12\_01.md)
     * [2024-01-24 Circle](blacklist/circle\_2024\_01\_24.md)
     * [2024-02-07 Tether](blacklist/tether\_2024\_02\_07.md)
+* [ether.fi](ether.fi/ether.fi.md)
+  * [Initial Token Allocation Issues](ether.fi/ether\_fi\_initial.md)
 * [🏦 Exchange Monitoring](exchanges/exchanges.md)
   * [Binance - Binance US](exchanges/binance\_us.md)
 * [🟣 Polygon](polygon/polygon.md)
