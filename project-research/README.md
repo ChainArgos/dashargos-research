@@ -4,7 +4,7 @@ This is an outline of common steps for introductory project research.
 It begins assuming you know the token you want to look at and have some basic documentation -- possibly
 with initial allocations or similar -- available.
 If you do not have any documentation at all that is fine but you're going to need to invent
-your own labels to get started (i.e. rather than calling something "treasury allocation" it is just going to be )
+your own labels to get started (i.e. rather than calling something "treasury allocation" it is just going to be
 "large holder 1").
 
 ## Setup
@@ -86,7 +86,9 @@ This may take a bit more checking to confirm but it is a good candidate.
 
 ### Liquidity & staking
 
-`0x8ff19db5b7d712b98026acf692793d47dceece56` receives 220mm from treasury and 180mm from `0xeb926db328044c0cdb8c5fbcf1bd3649d8cd4b57`.
+[`0x8ff19db5b7d712b98026acf692793d47dceece56`](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x8ff19db5b7d712b98026acf692793d47dceece56&Symbol=ORBR)
+receives 220mm from treasury and 180mm from
+[`0xeb926db328044c0cdb8c5fbcf1bd3649d8cd4b57`](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0xeb926db328044c0cdb8c5fbcf1bd3649d8cd4b57&Symbol=ORBR).
 That is 400mm.
 
 It distributes a long tail of 8.33mm chunks, 17.36mm to `0x833b0f56ea206df8ee784fa115c42ecdf00e3f08` and then a lot of 4mm and down amounts.
@@ -102,14 +104,16 @@ That looks like paying related parties but could also be marketing expenses,
 
 ### Team
 
-`0x6f0df17a5872c14492ff7ce8d305ba0cdd22cb11` receives 200mm from treasury.
+[`0x6f0df17a5872c14492ff7ce8d305ba0cdd22cb11`](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x6f0df17a5872c14492ff7ce8d305ba0cdd22cb11&Symbol=ORBR)
+receives 200mm from treasury.
 It sends 60mm to `0x58e33934411f8e453b5cb04c498d194d01b3fad8` and then another long tail of 7.77mm and other clearly-allocations-amounts.
 
 This looks like the team wallet.
 
 ### Marketing
 
-`0xcb7f80a4d3fa609cc3acd2a018547a9e8ec56548` deposits a bit to exchanges but still has the bulk of the initial 20mm tokens.
+[`0xcb7f80a4d3fa609cc3acd2a018547a9e8ec56548`](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0xcb7f80a4d3fa609cc3acd2a018547a9e8ec56548&Symbol=ORBR)
+deposits a bit to exchanges but still has the bulk of the initial 20mm tokens.
 
 This looks like a partially-spent marketing budget.
 But it is also possible they just did not have as many partners as expected.
@@ -119,3 +123,7 @@ But it is also possible they just did not have as many partners as expected.
 It is plausible we have the marketing and partner & advisor wallets backwards.
 That would mean they have incurred a lot of marketing expenses and stiffed (or never had) partners.
 It does not really matter which happened.
+
+In more complex cases you may need to look downstream from these wallets.
+Or if it really matters which is marketing and which is the partner wallet we would need to look further.
+But for the purposes of an intro this is a reasonable place to stop.
