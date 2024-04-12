@@ -24,7 +24,7 @@
 * [👨🏻‍💻 Dev Vetting](dev-vetting/README.md)
   * [Munchables Case Study](dev-vetting/munchables\_example.md)
 * [🤷‍♂️ Token Misallocations](empirical-research/token-misallocations/README.md)
-  * [🔘 ether.fi](empirical-research/ether.fi.md)
+  * [🟡 ether.fi](empirical-research/ether.fi.md)
   * [🔵 Orbler](orbler/README.md)
   * [🟣 Polygon](polygon/polygon.md)
     * [Part 1: Circulating Supply Issues](polygon/polygon\_1.md)
