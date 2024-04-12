@@ -8,6 +8,7 @@
   * [Mixers & Incidents](basics/mixers.md)
   * [Shitcoin Volumes](basics/shitcoin\_volumes.md)
   * [Stablecoin Volumes: Heco vs Ethereum](basics/stables\_heco\_vs\_eth.md)
+  * [Table math](basics/table\_math.md)
   * [Tether burn and unfreeze](stablecoins/tether\_burn\_unfreeze.md)
   * [Uniswap Price Feeds](basics/uniswap\_price\_feeds.md)
   * [Upgradeable Proxy Contracts](basics/upgradeable\_proxy.md)
