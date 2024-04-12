@@ -1,3 +1,3 @@
-# Blacklist Analysis
+# 🏴 Blacklists
 
 Case studies of blacklist analysis.
