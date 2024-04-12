@@ -5,7 +5,7 @@ description: >-
   signals.
 ---
 
-# ⚫ ether.fi
+# 🔘 ether.fi
 
 ## Information from the team
 

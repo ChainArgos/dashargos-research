@@ -1,8 +1,14 @@
-# ⚫ Orbler
+---
+description: >-
+  Another token allocation that is odd and ended in the complete collapse of the
+  project.
+---
+
+# 🔵 Orbler
 
 ### Orbler
 
-This is an odd one. We tag the core wallets [here](../project-research/).
+This is an odd one. We tag the core wallets [here](../../project-research/).
 
 ### WTF Happened
 
