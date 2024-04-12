@@ -5,6 +5,7 @@
 ## 🔬 Empirical Research
 
 * [🤖 Basics](basics/basics.md)
+  * [Custom Measures](basics/custom\_measures.md)
   * [Mixers & Incidents](basics/mixers.md)
   * [Shitcoin Volumes](basics/shitcoin\_volumes.md)
   * [Stablecoin Volumes: Heco vs Ethereum](basics/stables\_heco\_vs\_eth.md)
