@@ -48,7 +48,7 @@ And where did those outflows go? A [0x2f4ee address](https://lookerstudio.google
 
 And what do we see in that address? [Inflows from this Binance 33 wallet and the Marketing & Ecosystem wallet](https://lookerstudio.google.com/s/kzXQ6Nn5qpw). Where did they go? Binance 1 and Binance 14 (aka the exchange).
 
-If we broaden our view to all outflows from the 0x2f4ee wallet we see huge outflows to Binance. [Just look](../../../polygon/0x2f4Ee65D536c5a2Dd72004778167B30aeCb8719C/). Recall we already know all these outflows go to Binance.
+If we broaden our view to all outflows from the 0x2f4ee wallet we see huge outflows to Binance. [Just look](0x2f4Ee65D536c5a2Dd72004778167B30aeCb8719C/). Recall we already know all these outflows go to Binance.
 
 ## Price
 

@@ -8,7 +8,7 @@ description: >-
 
 ### Orbler
 
-This is an odd one. We tag the core wallets [here](../../project-research/).
+This is an odd one. We tag the core wallets [here](../project-research/).
 
 ### WTF Happened
 
