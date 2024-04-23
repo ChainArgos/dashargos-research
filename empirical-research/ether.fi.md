@@ -28,7 +28,14 @@ These would be the total amount handed out over time. The document tells us ther
 
 The team and guild initial allocations look like 0. While the document does not directly address the DAO treasury initial allocation it is clear the circulating supply should be 11.52%. So, at most, there is a little confusion over how that amount is allocated.
 
+## Finding Candidate Project Wallets
+
+We can start [here](https://dashargos.chainargos.com/dashboards/162?Relative+Months+Prior=%5B0%2C48%5D&Symbol=ETHFI)
+with a listing of the largest senders and receivers of the ETHFI token.
+
 The team also documents a [large number of addresses](https://etherfi.gitbook.io/etherfi/contracts-and-integrations/deployed-contracts).
+But you'll notice quite a few of the most-active addresses are not on that list.
+Several belong to large CeXs like Binance and OKX -- but the most interesting ones do not.
 
 ## Initial handouts
 
