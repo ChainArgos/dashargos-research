@@ -111,6 +111,7 @@ N = 100000
 |7.5|0.00%|0.00%|0.00%|0.00%|0.00%|
 |10|49.62%|0.00%|0.00%|0.00%|0.00%|
 |15|100.00%|0.00%|0.00%|0.00%|0.00%|
+
 What we see is that, so long as $$F > C$$ there is essentially no chance a random sample ever comes up
 with $$l$$.
 
