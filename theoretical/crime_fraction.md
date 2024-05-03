@@ -2,9 +2,16 @@
 
 Motivated by [this tweet](https://x.com/davidzmorris/status/1785296620289958024).
 
-The question, in primary school terms, is: pick some subset of n transaction from the whole
+The question, in primary school terms, is: pick some subset of n transactions from the whole
 world of transactions. x is the % of those transaction that are laundering the proceeds of crime.
 If y is the pct of GDP that is laundered each year do we expect x = y, x > y or y < x?
+
+That statement, perhaps involving colored balls or pieces of fruit instead of transactions,
+should be familiar to just about everyone.
+
+We will use a little math here.
+But you do not need to understand the math to understand the results at the bottom -- 
+you just need to know these are standard statistical methods.
 
 ## Setup
 
@@ -24,7 +31,7 @@ Under what conditions is $$\frac{m}{n} > l$$, $$\frac{m}{n} = l$$ and $$\frac{m}
 
 Assume n is a lot smaller than |T|.
 We are taking a "small" sample.
-Then we can treat this as a simple binomial problem.
+Then we can treat this as a simple binomial problem.*
 
 If p is the probability a transaction is laundering (l),
 we pick n transactions and we want to know if at least k are laundering
@@ -47,12 +54,17 @@ Our formula depends highly on $$\frac{C}{F}$$: the ratio of how many transaction
 1 unit of stolen GDP to the number of transactions required to generate 1 unit of GDP.
 
 The denominator we can get a sense for easily.
-Fedwire -- the US Fed's interbank payment system -- does about $1 quadrillion per year in volume
-vs $20T in US GDP and $100T world GDP.
-Additionally the US bond and stock markets do 5x-10x US GDP per year.
-Global FX markets do something like 15x-20x world GDP per year.
-F is at least the sum of all these ratios.
-So F is maybe 20-100.
+Fedwire -- the US Fed's interbank payment system -- does about [$1 quadrillion](https://www.frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
+per year in volume
+vs [$20T in US GDP and $100T world GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)).
+Additionally the US [bond](https://www.sifma.org/resources/research/us-treasury-securities-statistics/)
+and [equity](https://www.nasdaqtrader.com/trader.aspx?id=FullVolumeSummary) markets do 5x-10x US GDP per year.
+Global FX markets do something like [15x-20x](https://www.bis.org/publ/qtrpdf/r_qt2212f.htm) world GDP per year.
+The Eurozone's Target2 system does [5x](https://www.ecb.europa.eu/paym/target/target2/facts/html/index.en.html) world GDP.
+Recall almost every country has bond and equity markets and an interbank payment system; we are not
+trying to be exhaustive here.
+So F is at least the sum of all these ratios.
+Let's assume it is somewhere 20-100.
 
 But C. How do we estimate C?
 One argument is that C should be near 1 as criminals do not like to get caught. Hence they try to
@@ -115,3 +127,11 @@ N = 100000
 What we see is that, so long as $$F > C$$ there is essentially no chance a random sample ever comes up
 with $$l$$.
 
+When N is small those non-zero numbers are [noise](https://en.wikipedia.org/wiki/Noise_(signal_processing)).
+If we only pick 3 transactions it's a bit of a coin toss whether we get 0 or 33% laundering.
+We are not capable of getting 5% with only 3 samples.
+
+## Notes
+
+(*) Strictly speaking we are not sampling with replacement here.
+But given we are taking samples from "all the transactions in the economy" this approximation is reasonable.
