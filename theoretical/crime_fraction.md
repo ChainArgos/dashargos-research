@@ -43,7 +43,7 @@ This is just the [Binomial Distribution CDF](https://en.wikipedia.org/wiki/Binom
 In our units:
 - n = |X|
 - k = ln
-- p = $$\frac{|M|}{|T} = \frac{lCG}{FL} = l\frac{C}{F}$$
+- p = $$\frac{|M|}{|T|} = \frac{lCG}{FG} = l\frac{C}{F}$$
 
 Substituting gives us:
 $$1 - \sum_{i=0}^{\lfloor l n \rfloor} {n \choose i} (l \frac{C}{F})^i (1-(l \frac{C}{F}))^{n-i}$$
