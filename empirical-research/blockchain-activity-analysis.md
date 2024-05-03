@@ -149,7 +149,7 @@ For any given blockchain, start with "Explore" and then select the blockchain.&#
 
 1. Select "Block Times" -> "Block Written Date" -> "Date" and filter on "Date" ![](<../.gitbook/assets/image (9).png>)
 2. Select "Tokens" -> "Symbol" and ![](<../.gitbook/assets/image (8).png>) pivot on "Symbol"                ![](<../.gitbook/assets/image (10).png>)
-3. Finally, select "Transactions" -> "Number of Unique Txns"             ![](<../.gitbook/assets/image (12).png>)
+3. Finally, select "Transactions" -> "Number of Unique Txns"             ![](<../.gitbook/assets/image (15).png>)
 4. Hit the "Run" button and adjust the filter to the timeframe required. This will provide you with an excellent overview of which tokens are causing the biggest transaction volumes.&#x20;
 
 ### 4.2 Follow Up by Investigating Tokens
