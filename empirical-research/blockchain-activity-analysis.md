@@ -21,7 +21,7 @@ Zirlin claims that Ronin's growth is "going parabolic" and that Ronin is now the
 
 In a [separate piece](https://www.coindesk.com/business/2024/03/21/pixels-crypto-game-fuels-resurgent-ronin-blockchain/), Coindesk references Token Terminal to show the dramatic spike in Ronin's user base.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Source: Token Terminal transaction count for Ronin blockchain.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Source: Token Terminal transaction count for Ronin blockchain.</p></figcaption></figure>
 
 Token Terminal indeed shows a sharp spike in the number of transactions on Ronin, starting in December, and then increasing in a linear fashion thereafter.&#x20;
 
@@ -37,13 +37,13 @@ Let's take a look at the number of unique transactions for the PIXEL token on Da
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/809?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As can be seen from the chart above, there was a genuine spike in PIXEL token transactions (in pink), which picked up significantly from February 19, 2024.&#x20;
 
 But watch what happens when the SOUL token is overlaid on the same chart.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 It's obvious when overlaid, the SOUL token's number of unique transactions (marked in yellow) completely overwhelms and drowns out the activity driven by the PIXEL token, rendering it more or less irrelevant.&#x20;
 
@@ -61,7 +61,7 @@ From December 20, 2023, there was only one unique sender of SOUL tokens.&#x20;
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/807?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see, there's only one Unique From Address for the SOUL token which starts spitting out tokens on December 20, 2023, consistent with the Token Terminal's chart which shows the sharp uptick in transaction count at the same time.&#x20;
 
@@ -69,7 +69,7 @@ And who was receiving these SOUL tokens?&#x20;
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/808?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 A whole bunch of addresses.&#x20;
 
@@ -94,6 +94,28 @@ Yet nothing in Zirlin's Coindesk interview mentions CARV or SOUL at all.&#x20;
 Looking at the data, you can see that the null address simply sprays out a bunch of airdrop tokens in tiny amounts to millions of addresses - an airdrop.&#x20;
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Source: DashArgos, underlying transactions from the null address ("From Address") to unique recipient addresses ("To Address").</p></figcaption></figure>
+
+The data also supports the fact that no organic transaction activity is occurring on the Ronin blockchain.&#x20;
+
+Let's take a look at the number of "Unique To Addresses" that send any token other than SOUL on the Ronin blockchain.&#x20;
+
+DashArgos subscribers can interact with this dashboard [here](https://dashargos.chainargos.com/dashboards/200?Symbol=-SOUL\&Block+Written+Date=180+days), non-subscribers please read on.&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Even if we pick the most active day on Ronin, on February 19, 2024, there were 180,180 "Unique To Addresses" or unique receivers of tokens other than SOUL, and 140,474 "Unique From Addresses" or unique senders of tokens other than SOUL.&#x20;
+
+DashArgos subscribers can interact with this dashboard [here](https://dashargos.chainargos.com/dashboards/199?Symbol=-SOUL\&Block+Written+Date=180+days), non-subscribers please read on.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+We know that there's only one sender of SOUL tokens, so let's take a look at the number of receivers of SOUL tokens, which is 462,446.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Even on the most active day for the Ronin blockchain, February 19, 2024, a whopping 71.96% of all recipient transactions come from the SOUL airdrop.&#x20;
+
+It's even worse for outbound transactions, the single SOUL null address is responsible for 76.7% of all sending transactions on February 19, 2024.&#x20;
 
 ### 3.3 Bold Claims Backed By Nothing
 
