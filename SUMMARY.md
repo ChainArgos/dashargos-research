@@ -49,3 +49,5 @@
 
 ## 🤔 Theoretical Research
 
+* [Impossibilities](theoretical/impossibilities.md)
+* [What Fraction Of Laundering Do We Expect?](theoretical/crime\_fraction.md)
