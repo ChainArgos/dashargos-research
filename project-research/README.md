@@ -1,4 +1,4 @@
-# ⚫ Project Research
+# 🧪 Project Research
 
 This is an outline of common steps for introductory project research. It begins assuming you know the token you want to look at and have some basic documentation -- possibly with initial allocations or similar -- available. If you do not have any documentation at all that is fine but you're going to need to invent your own labels to get started (i.e. rather than calling something "treasury allocation" it is just going to be "large holder 1").
 

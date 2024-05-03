@@ -4,6 +4,7 @@
 
 ## 🔬 Empirical Research
 
+* [⚡ Blockchain Activity Analysis](empirical-research/blockchain-activity-analysis.md)
 * [🤖 Basics](basics/basics.md)
   * [Custom Measures](basics/custom\_measures.md)
   * [Mixers & Incidents](basics/mixers.md)
