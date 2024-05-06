@@ -138,6 +138,7 @@ Now let's build the Order of Magnitude of Transfer and Average Transfer Size Loo
 
     <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 8. Now hit the "Save" button and voila! You've got your first custom expression.&#x20;
-9. &#x20;
-10.
-11.
+
+
+
+The same principles of constructing these Looks can be applied and configured to your specific area of interest. Have fun!&#x20;
