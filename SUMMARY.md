@@ -4,7 +4,9 @@
 
 ## 🔬 Empirical Research
 
-* [⚡ Blockchain Activity Analysis](empirical-research/blockchain-activity-analysis.md)
+* [⚡ Blockchain Activity Analysis](empirical-research/blockchain-activity-analysis/README.md)
+  * [Ronin Blockchain](empirical-research/blockchain-activity-analysis/blockchain-activity-analysis.md)
+  * [USDT on Tron](empirical-research/blockchain-activity-analysis/usdt-on-tron.md)
 * [🤖 Basics](basics/basics.md)
   * [Custom Measures](basics/custom\_measures.md)
   * [Mixers & Incidents](basics/mixers.md)

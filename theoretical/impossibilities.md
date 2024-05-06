@@ -1,4 +1,4 @@
-# ⛔ Impossibilities
+# Impossibilities
 
 This is a collection of impossibility results for decentralized/permissionless systems. The focus here is on math- or CS-style results.
 

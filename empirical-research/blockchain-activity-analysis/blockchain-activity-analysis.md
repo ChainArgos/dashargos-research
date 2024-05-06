@@ -5,7 +5,7 @@ description: >-
   nothing more than an airdrop.
 ---
 
-# ⚡ Blockchain Activity Analysis
+# Ronin Blockchain
 
 ## 1. The Alleged Ronin Resurgence&#x20;
 
@@ -21,7 +21,7 @@ Zirlin claims that Ronin's growth is "going parabolic" and that Ronin is now the
 
 In a [separate piece](https://www.coindesk.com/business/2024/03/21/pixels-crypto-game-fuels-resurgent-ronin-blockchain/), Coindesk references Token Terminal to show the dramatic spike in Ronin's user base.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Source: Token Terminal transaction count for Ronin blockchain.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Source: Token Terminal transaction count for Ronin blockchain.</p></figcaption></figure>
 
 Token Terminal indeed shows a sharp spike in the number of transactions on Ronin, starting in December, and then increasing in a linear fashion thereafter.&#x20;
 
@@ -37,13 +37,13 @@ Let's take a look at the number of unique transactions for the PIXEL token on Da
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/809?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As can be seen from the chart above, there was a genuine spike in PIXEL token transactions (in pink), which picked up significantly from February 19, 2024.&#x20;
 
 But watch what happens when the SOUL token is overlaid on the same chart.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 It's obvious when overlaid, the SOUL token's number of unique transactions (marked in yellow) completely overwhelms and drowns out the activity driven by the PIXEL token, rendering it more or less irrelevant.&#x20;
 
@@ -61,7 +61,7 @@ From December 20, 2023, there was only one unique sender of SOUL tokens.&#x20;
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/807?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see, there's only one Unique From Address for the SOUL token which starts spitting out tokens on December 20, 2023, consistent with the Token Terminal's chart which shows the sharp uptick in transaction count at the same time.&#x20;
 
@@ -69,7 +69,7 @@ And who was receiving these SOUL tokens?&#x20;
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/808?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 A whole bunch of addresses.&#x20;
 
@@ -93,7 +93,7 @@ Yet nothing in Zirlin's Coindesk interview mentions CARV or SOUL at all.&#x20;
 
 Looking at the data, you can see that the null address simply sprays out a bunch of airdrop tokens in tiny amounts to millions of addresses - an airdrop.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Source: DashArgos, underlying transactions from the null address ("From Address") to unique recipient addresses ("To Address").</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Source: DashArgos, underlying transactions from the null address ("From Address") to unique recipient addresses ("To Address").</p></figcaption></figure>
 
 The data also supports the fact that no organic transaction activity is occurring on the Ronin blockchain.&#x20;
 
@@ -101,17 +101,17 @@ Let's take a look at the number of "Unique To Addresses" that send any token oth
 
 DashArgos subscribers can interact with this dashboard [here](https://dashargos.chainargos.com/dashboards/200?Symbol=-SOUL\&Block+Written+Date=180+days), non-subscribers please read on.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Even if we pick the most active day on Ronin, on February 19, 2024, there were 180,180 "Unique To Addresses" or unique receivers of tokens other than SOUL, and 140,474 "Unique From Addresses" or unique senders of tokens other than SOUL.&#x20;
 
 DashArgos subscribers can interact with this dashboard [here](https://dashargos.chainargos.com/dashboards/199?Symbol=-SOUL\&Block+Written+Date=180+days), non-subscribers please read on.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 We know that there's only one sender of SOUL tokens, so let's take a look at the number of receivers of SOUL tokens, which is 462,446.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Even on the most active day for the Ronin blockchain, February 19, 2024, a whopping 71.96% of all recipient transactions come from the SOUL airdrop.&#x20;
 
@@ -135,7 +135,7 @@ Here are the unique daily receivers and a running total of the unique daily rece
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/806?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>The unique recipient addresses for PIXEL are in dark blue while the </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>The unique recipient addresses for PIXEL are in dark blue while the </p></figcaption></figure>
 
 Human gamers don't produce lines that smooth, bots do.&#x20;
 
@@ -147,9 +147,9 @@ You can analyze the activity on any blockchain (especially those which have been
 
 For any given blockchain, start with "Explore" and then select the blockchain.&#x20;
 
-1. Select "Block Times" -> "Block Written Date" -> "Date" and filter on "Date" ![](<../.gitbook/assets/image (9).png>)
-2. Select "Tokens" -> "Symbol" and ![](<../.gitbook/assets/image (8).png>) pivot on "Symbol"                ![](<../.gitbook/assets/image (10).png>)
-3. Finally, select "Transactions" -> "Number of Unique Txns"             ![](<../.gitbook/assets/image (15).png>)
+1. Select "Block Times" -> "Block Written Date" -> "Date" and filter on "Date" ![](<../../.gitbook/assets/image (9).png>)
+2. Select "Tokens" -> "Symbol" and ![](<../../.gitbook/assets/image (8).png>) pivot on "Symbol"                ![](<../../.gitbook/assets/image (10).png>)
+3. Finally, select "Transactions" -> "Number of Unique Txns"             ![](<../../.gitbook/assets/image (15).png>)
 4. Hit the "Run" button and adjust the filter to the timeframe required. This will provide you with an excellent overview of which tokens are causing the biggest transaction volumes.&#x20;
 
 ### 4.2 Follow Up by Investigating Tokens
@@ -160,8 +160,8 @@ Presumably, a large number of unique sending addresses and a large number of uni
 
 For any given blockchain, start with "Explore" and then select the blockchain.&#x20;
 
-1. Select "Block Times" -> "Block Written Date" -> "Date" and filter on "Date" ![](<../.gitbook/assets/image (9).png>)
-2. Select "Tokens" and filter on "Symbol" and add in the token symbol that you are interested in                                           ![](<../.gitbook/assets/image (13).png>)
-3. Finally, select "Transactions" -> "Unique From Addresses"              ![](<../.gitbook/assets/image (14).png>)
+1. Select "Block Times" -> "Block Written Date" -> "Date" and filter on "Date" ![](<../../.gitbook/assets/image (9).png>)
+2. Select "Tokens" and filter on "Symbol" and add in the token symbol that you are interested in                                           ![](<../../.gitbook/assets/image (13).png>)
+3. Finally, select "Transactions" -> "Unique From Addresses"              ![](<../../.gitbook/assets/image (14).png>)
 
 Repeat the same process to see the unique recipient addresses by selecting "Unique To Addresses" and this will give you a good indication of whether the token activity is organic, a result of an airdrop, or likely to have been driven by bots. &#x20;
