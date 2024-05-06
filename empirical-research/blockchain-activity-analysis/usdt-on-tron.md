@@ -21,9 +21,9 @@ The following chart shows the Number of Transfers of USDT against time. This isn
 
 As you can see from the above chart, the other stablecoins don't really have all that many transactions on the Ethereum blockchain, but USDT and USDC, the two most popular stablecoins, stand out.&#x20;
 
-The R^2 number is also the coefficient of determination, and measures how well a statistical model predicts an outcome. The lowest possible R^2 number is 0, meaning zero correlation, and the highest number is 1, meaning a perfect correlation.
+The R^2 number is also the coefficient of determination, and measures how well a statistical model predicts an outcome. The lowest possible R^2 number is 0, meaning zero predictive power, and the highest number is 1, meaning a perfect explanation of the data.
 
-Confining our analysis to USDT, as expected, time has no strong correlation with the number of transactions for USDT on the Ethereum blockchain, with USDT having an R^2 number of 0.3115.&#x20;
+Confining our analysis to USDT, as expected, time has no strong predict power for the number of transactions for USDT on the Ethereum blockchain, with USDT having an R^2 number of 0.3115.&#x20;
 
 And that analysis is consistent with what we experience in real life - while you'd expect seasonal increases in the number of transactions for a currency like the dollar, you wouldn't expect the number of dollar transactions to increase purely as a function of time, nor that such increases be linear.&#x20;
 
@@ -39,7 +39,7 @@ Even if you're not a statistician, you can clearly see that there are some issue
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>(Source: DashArgos [Tron] USDT Txn Count Per Day)</p></figcaption></figure>
 
-With an R^2 number of 0.8707, the above chart for USDT on Tron implies that the number of transfers of USDT on the Tron blockchain has a strong correlation with time.&#x20;
+With an R^2 number of 0.8707, the above chart for USDT on Tron implies that the number of transfers of USDT on the Tron blockchain has a strong connection with time.&#x20;
 
 In other words, users are transferring USDT on Tron more frequently, simply as a function of time.&#x20;
 
