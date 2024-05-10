@@ -56,7 +56,7 @@ Sometimes a project wants to crystallize a given implementation and give up owne
 They can:
 
 ```solidity
-setImplementation(0x0000000000000000000000000000000000000000);
+setOwner(0x0000000000000000000000000000000000000000);
 ```
 
 Now the null address - an address nobody has the private keys for - is the owner. Functionally this means it is no longer possible to upgrade the contract.
