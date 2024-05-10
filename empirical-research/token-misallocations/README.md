@@ -30,8 +30,10 @@ Before you put a single penny down on a token project, find out if insiders are 
     <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 3. Check the largest senders and receivers listed on the Dashboard in Step 2 against the wallet addresses declared by the token team in Step 1 and see if there are any wallets which haven't been identified or listed and transact in significant amounts. \
 
-4. Place any of the addresses that are of interest to you in the "Largest Counterparties for Address" Dashboard that you can find [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=\&Symbol=). Versions also exist for other blockchains.   \
+4.  Place any of the addresses that are of interest to you in the "Largest Counterparties for Address" Dashboard that you can find [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=\&Symbol=). Versions also exist for other blockchains.   \
 
+
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 5. Repeat Step 4 for as many times as you need until you can reconcile all of the addresses and token allocations from Step 1, with Steps 2 to 4. \
 
 6. If all the tokens have been allocated as promised, and those that should be lock contracts are locked, and those that are team multisigs are team multisigs, and all is good, go back to Step 2 regularly to keep an eye on things. DashArgos subscribers can receive automated alerts of major token movements via API, email, Amazon S3, Webhook and SFTP. \

@@ -37,7 +37,7 @@ Let's take a look at the number of unique transactions for the PIXEL token on Da
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/809?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As can be seen from the chart above, there was a genuine spike in PIXEL token transactions (in pink), which picked up significantly from February 19, 2024.&#x20;
 
@@ -111,7 +111,7 @@ DashArgos subscribers can interact with this dashboard [here](https://dashargos.
 
 We know that there's only one sender of SOUL tokens, so let's take a look at the number of receivers of SOUL tokens, which is 462,446.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Even on the most active day for the Ronin blockchain, February 19, 2024, a whopping 71.96% of all recipient transactions come from the SOUL airdrop.&#x20;
 

@@ -60,7 +60,7 @@ At the time the dashboard was run, on May 5, 2024, it looked like this:&#x20;
 
 #### 2.2.2 Largest Receivers of ETHFI
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Source: DashArgos [Ethereum] Largest Senders and Receivers premade Dashboard. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source: DashArgos [Ethereum] Largest Senders and Receivers premade Dashboard. </p></figcaption></figure>
 
 The easiest place to start is to scan and review which are the biggest receivers and senders of tokens and see if that corresponds with what the ether.fi team has declared.&#x20;
 
@@ -80,7 +80,7 @@ So let's start by using the premade Largest Counterparties For Addresses dashboa
 
 DashArgos subscribers can access the Dashboard by clicking [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x7a6a41f353b3002751d94118aa7f4935da39bb53\&Symbol=), otherwise read on.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
