@@ -212,3 +212,13 @@ It's also possible the market maker declined the business and voluntarily return
 Any of these reasons is possible, and so many more.&#x20;
 
 But what's not in dispute is that these ETHFI token movements were not explained, not announced, and not consistent with any of the documentation provided by either the ether.fi team or the Binance research page.&#x20;
+
+## 4. Putting it Altogether
+
+Staying on top of your token investments can be as easy as checking how the initial tokens were allocated and should form part of the basic due diligence for any savvy token investor.&#x20;
+
+This example uses ETHFI, but the same rules and premade Dashboards can be used for any token, and for any timeframe, with automated alerts for anomalies.&#x20;
+
+Click [here](token-misallocations/) to find the step-by-step instructions on how you can do this.&#x20;
+
+Good luck!&#x20;
