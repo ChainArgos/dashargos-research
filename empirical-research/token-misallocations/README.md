@@ -31,7 +31,6 @@ Before you put a single penny down on a token project, find out if insiders are 
 3. Check the largest senders and receivers listed on the Dashboard in Step 2 against the wallet addresses declared by the token team in Step 1 and see if there are any wallets which haven't been identified or listed and transact in significant amounts. \
 
 4.  Place any of the addresses that are of interest to you in the "Largest Counterparties for Address" Dashboard that you can find [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=\&Symbol=). Versions also exist for other blockchains. \
-    &#x20; \
 
 
     <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
