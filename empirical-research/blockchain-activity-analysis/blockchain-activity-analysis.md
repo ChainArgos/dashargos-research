@@ -135,7 +135,7 @@ Here are the unique daily receivers and a running total of the unique daily rece
 
 DashArgos subscribers can interact with the dashboard [here](https://dashargos.chainargos.com/looks/806?toggle=det), read on otherwise if you do not have a subscription.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>The unique recipient addresses for PIXEL are in dark blue while the </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Human gamers don't produce lines that smooth, bots do.&#x20;
 
