@@ -110,7 +110,7 @@ The 0x5f0 Address gets over 140 million ETHFI on March 13, 2024 and notice:
 
 Let's start by putting the 0x5f0 Address into the premade Largest Counterparties For Addresses dashboard.&#x20;
 
-DashArgos subscribers can access the Dashboard by clicking [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x7a6a41f353b3002751d94118aa7f4935da39bb53\&Symbol=), otherwise read on.&#x20;
+DashArgos subscribers can access the Dashboard by clicking [here](https://dashargos.chainargos.com/dashboards/57?To+or+From+Address=0x5f0e7a424d306e9e310be4f5bb347216e473ae55\&Symbol=), otherwise read on.&#x20;
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
