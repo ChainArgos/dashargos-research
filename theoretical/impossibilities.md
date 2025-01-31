@@ -14,8 +14,9 @@ This is a collection of impossibility results for decentralized/permissionless s
 8. Decentralized trustless oracle impossibility: [An impossibility theorem on truth-telling in fully decentralized systems](https://www.bis.org/publ/work1117.pdf), BIS working paper, 2023
    * See also [The oracle problem and the future of DeFi](https://www.bis.org/publ/bisbull76.pdf), BIS Bulletin, 2023
 9. Trustless protocols cannot guarantee price stability: [Can Trustless Protocols Guarantee Price Stability?](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4576168), SSRN, 2023
-10. Compliance impossibility: [Decentralized Finance and Financial Regulation: Limits On Mutable Turing Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4597651), SSRN, 2023
+10. Compliance impossibility: [Tradeoffs in automated financial regulation of decentralized finance due to limits on mutable turing machines](https://www.nature.com/articles/s41598-024-84612-9), Scientific Reports, 2025
     * See also [The Compliance-Innovation Trade-off](https://datafinnovation.medium.com/the-compliance-innovation-trade-off-72b9f8026f56), blog post, 2022
+    * [Compliance Impossibility Intuition](https://datafinnovation.medium.com/0c5238979870), blog post, 2025
 
 ## Other collections
 
